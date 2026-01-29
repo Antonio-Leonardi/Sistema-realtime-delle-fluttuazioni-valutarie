@@ -1,0 +1,181 @@
+currency,name,category,region,volatility
+ADA,Cardano,crypto,Global,High
+AED,United Arab Emirates Dirham,pegged,Middle East,Low
+AFN,Afghan Afghani,fiat,Asia,High
+ALL,Albanian Lek,fiat,Europe,Medium
+AMD,Armenian Dram,fiat,Asia,Medium
+ANG,Netherlands Antillean Guilder,fiat,Caribbean,Medium
+AOA,Angolan Kwanza,fiat,Africa,High
+ARB,Arbitrum,crypto,Global,High
+ARS,Argentine Peso,fiat,South America,Extreme
+AUD,Australian Dollar,fiat,Oceania,Medium
+AWG,Aruban Florin,fiat,Caribbean,Low
+AZN,Azerbaijani Manat,fiat,Asia,Medium
+BAM,Bosnia-Herzegovina Convertible Mark,fiat,Europe,Low
+BBD,Barbadian Dollar,pegged,Caribbean,Low
+BDT,Bangladeshi Taka,fiat,Asia,High
+BGN,Bulgarian Lev,fiat,Europe,Low
+BHD,Bahraini Dinar,pegged,Middle East,Low
+BIF,Burundian Franc,fiat,Africa,High
+BMD,Bermudian Dollar,pegged,North America,Low
+BNB,Binance Coin,crypto,Global,High
+BND,Brunei Dollar,fiat,Asia,Low
+BOB,Bolivian Boliviano,fiat,South America,Medium
+BRL,Brazilian Real,fiat,South America,High
+BSD,Bahamian Dollar,pegged,Caribbean,Low
+BTC,Bitcoin,crypto,Global,Extreme
+BTN,Bhutanese Ngultrum,fiat,Asia,Medium
+BWP,Botswana Pula,fiat,Africa,Medium
+BYN,Belarusian Ruble,fiat,Europe,High
+BYR,Belarusian Ruble (Old),obsolete,Europe,High
+BZD,Belize Dollar,pegged,Caribbean,Low
+CAD,Canadian Dollar,fiat,North America,Low
+CDF,Congolese Franc,fiat,Africa,High
+CHF,Swiss Franc,fiat,Europe,Low
+CLF,Chilean Unit of Account (UF),fiat,South America,Low
+CLP,Chilean Peso,fiat,South America,Medium
+CNY,Chinese Yuan,fiat,Asia,Medium
+COP,Colombian Peso,fiat,South America,High
+CRC,Costa Rican Colón,fiat,Central America,Medium
+CUC,Cuban Convertible Peso,obsolete,Caribbean,Low
+CUP,Cuban Peso,fiat,Caribbean,Medium
+CVE,Cape Verdean Escudo,fiat,Africa,Medium
+CZK,Czech Koruna,fiat,Europe,Low
+DAI,DAI Stablecoin,crypto,Global,Low
+DJF,Djiboutian Franc,fiat,Africa,Medium
+DKK,Danish Krone,fiat,Europe,Low
+DOP,Dominican Peso,fiat,Caribbean,Medium
+DOT,Polkadot,crypto,Global,High
+DZD,Algerian Dinar,fiat,Africa,Medium
+EGP,Egyptian Pound,fiat,Africa,High
+ERN,Eritrean Nakfa,fiat,Africa,High
+ETB,Ethiopian Birr,fiat,Africa,High
+ETH,Ethereum,crypto,Global,Extreme
+EUR,Euro,fiat,Europe,Low
+FJD,Fijian Dollar,fiat,Oceania,Medium
+FKP,Falkland Islands Pound,fiat,South America,Low
+GBP,British Pound Sterling,fiat,Europe,Low
+GEL,Georgian Lari,fiat,Asia,Medium
+GGP,Guernsey Pound,fiat,Europe,Low
+GHS,Ghanaian Cedi,fiat,Africa,High
+GIP,Gibraltar Pound,fiat,Europe,Low
+GMD,Gambian Dalasi,fiat,Africa,High
+GNF,Guinean Franc,fiat,Africa,High
+GTQ,Guatemalan Quetzal,fiat,Central America,Medium
+GYD,Guyanese Dollar,fiat,South America,Medium
+HKD,Hong Kong Dollar,pegged,Asia,Low
+HNL,Honduran Lempira,fiat,Central America,Medium
+HRK,Croatian Kuna,obsolete,Europe,Low
+HTG,Haitian Gourde,fiat,Caribbean,High
+HUF,Hungarian Forint,fiat,Europe,Medium
+IDR,Indonesian Rupiah,fiat,Asia,High
+ILS,Israeli New Shekel,fiat,Middle East,Medium
+IMP,Isle of Man Pound,fiat,Europe,Low
+INR,Indian Rupee,fiat,Asia,Medium
+IQD,Iraqi Dinar,fiat,Middle East,Medium
+IRR,Iranian Rial,fiat,Middle East,High
+ISK,Icelandic Króna,fiat,Europe,Medium
+JEP,Jersey Pound,fiat,Europe,Low
+JMD,Jamaican Dollar,fiat,Caribbean,High
+JOD,Jordanian Dinar,pegged,Middle East,Low
+JPY,Japanese Yen,fiat,Asia,Low
+KES,Kenyan Shilling,fiat,Africa,Medium
+KGS,Kyrgyzstani Som,fiat,Asia,Medium
+KHR,Cambodian Riel,fiat,Asia,High
+KMF,Comorian Franc,fiat,Africa,Medium
+KPW,North Korean Won,fiat,Asia,High
+KRW,South Korean Won,fiat,Asia,Medium
+KWD,Kuwaiti Dinar,fiat,Middle East,Low
+KYD,Cayman Islands Dollar,pegged,Caribbean,Low
+KZT,Kazakhstani Tenge,fiat,Asia,Medium
+LAK,Lao Kip,fiat,Asia,High
+LBP,Lebanese Pound,fiat,Middle East,Extreme
+LKR,Sri Lankan Rupee,fiat,Asia,High
+LRD,Liberian Dollar,fiat,Africa,High
+LSL,Lesotho Loti,fiat,Africa,Medium
+LTC,Litecoin,crypto,Global,High
+LTL,Lithuanian Litas,obsolete,Europe,Low
+LVL,Latvian Lats,obsolete,Europe,Low
+LYD,Libyan Dinar,fiat,Africa,Medium
+MAD,Moroccan Dirham,fiat,Africa,Medium
+MDL,Moldovan Leu,fiat,Europe,Medium
+MGA,Malagasy Ariary,fiat,Africa,High
+MKD,Macedonian Denar,fiat,Europe,Medium
+MMK,Myanmar Kyat,fiat,Asia,High
+MNT,Mongolian Tögrög,fiat,Asia,High
+MOP,Macanese Pataca,fiat,Asia,Low
+MRO,Mauritanian Ouguiya (Old),obsolete,Africa,High
+MUR,Mauritian Rupee,fiat,Africa,Medium
+MVR,Maldivian Rufiyaa,fiat,Asia,Medium
+MWK,Malawian Kwacha,fiat,Africa,High
+MXN,Mexican Peso,fiat,North America,Medium
+MYR,Malaysian Ringgit,fiat,Asia,Medium
+MZN,Mozambican Metical,fiat,Africa,High
+NAD,Namibian Dollar,fiat,Africa,Medium
+NGN,Nigerian Naira,fiat,Africa,Extreme
+NIO,Nicaraguan Córdoba,fiat,Central America,Medium
+NOK,Norwegian Krone,fiat,Europe,Low
+NPR,Nepalese Rupee,fiat,Asia,Medium
+NZD,New Zealand Dollar,fiat,Oceania,Low
+OMR,Omani Rial,fiat,Middle East,Low
+OP,Optimism,crypto,Global,High
+PAB,Panamanian Balboa,pegged,Central America,Low
+PEN,Peruvian Sol,fiat,South America,Medium
+PGK,Papua New Guinean Kina,fiat,Oceania,High
+PHP,Philippine Peso,fiat,Asia,Medium
+PKR,Pakistani Rupee,fiat,Asia,High
+PLN,Polish Zloty,fiat,Europe,Medium
+PYG,Paraguayan Guaraní,fiat,South America,Medium
+QAR,Qatari Riyal,pegged,Middle East,Low
+RON,Romanian Leu,fiat,Europe,Medium
+RSD,Serbian Dinar,fiat,Europe,Medium
+RUB,Russian Ruble,fiat,Europe/Asia,High
+RWF,Rwandan Franc,fiat,Africa,High
+SAR,Saudi Riyal,pegged,Middle East,Low
+SBD,Solomon Islands Dollar,fiat,Oceania,Medium
+SCR,Seychellois Rupee,fiat,Africa,Medium
+SDG,Sudanese Pound,fiat,Africa,Extreme
+SEK,Swedish Krona,fiat,Europe,Low
+SGD,Singapore Dollar,fiat,Asia,Low
+SHP,Saint Helena Pound,fiat,Africa,Low
+SLL,Sierra Leonean Leone,fiat,Africa,High
+SOL,Solana,crypto,Global,High
+SOS,Somali Shilling,fiat,Africa,High
+SRD,Surinamese Dollar,fiat,South America,High
+STD,São Tomé and Príncipe Dobra (Old),obsolete,Africa,High
+SVC,Salvadoran Colón,obsolete,Central America,High
+SYP,Syrian Pound,fiat,Middle East,Extreme
+SZL,Eswatini Lilangeni,fiat,Africa,Medium
+THB,Thai Baht,fiat,Asia,Medium
+TJS,Tajikistani Somoni,fiat,Asia,High
+TMT,Turkmenistani Manat,fiat,Asia,Medium
+TND,Tunisian Dinar,fiat,Africa,Medium
+TOP,Tongan Paʻanga,fiat,Oceania,Medium
+TRY,Turkish Lira,fiat,Europe/Asia,Extreme
+TTD,Trinidad and Tobago Dollar,fiat,Caribbean,Medium
+TWD,New Taiwan Dollar,fiat,Asia,Low
+TZS,Tanzanian Shilling,fiat,Africa,High
+UAH,Ukrainian Hryvnia,fiat,Europe,High
+UGX,Ugandan Shilling,fiat,Africa,High
+USD,United States Dollar,fiat,North America,Low
+UYU,Uruguayan Peso,fiat,South America,Medium
+UZS,Uzbekistani Som,fiat,Asia,High
+VEF,Venezuelan Bolívar (Old),obsolete,South America,Extreme
+VND,Vietnamese Dong,fiat,Asia,High
+VUV,Vanuatu Vatu,fiat,Oceania,Medium
+WST,Samoan Tala,fiat,Oceania,Medium
+XAF,Central African CFA Franc,fiat,Africa,Low
+XAG,Silver,commodity,Global,Medium
+XAU,Gold,commodity,Global,Medium
+XCD,East Caribbean Dollar,pegged,Caribbean,Low
+XDR,IMF Special Drawing Rights,fiat,Global,Low
+XOF,West African CFA Franc,fiat,Africa,Low
+XPD,Palladium,commodity,Global,High
+XPF,CFP Franc,fiat,Oceania,Low
+XPT,Platinum,commodity,Global,High
+XRP,Ripple,crypto,Global,High
+YER,Yemeni Rial,fiat,Middle East,High
+ZAR,South African Rand,fiat,Africa,High
+ZMK,Zambian Kwacha (Old),obsolete,Africa,High
+ZMW,Zambian Kwacha,fiat,Africa,High
+ZWL,Zimbabwean Dollar,fiat,Africa,Extreme
